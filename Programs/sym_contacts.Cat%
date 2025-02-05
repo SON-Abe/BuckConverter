@@ -1,0 +1,4 @@
+TDMCHECKPOINT="1.0"
+bandgap/M1_N type="cell"
+bandgap/M1_P type="cell"
+bandgap/NTAP type="cell"

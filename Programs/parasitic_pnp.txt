@@ -1,0 +1,2 @@
+.model ami06PN D is=1e-18 n=1
+ 
